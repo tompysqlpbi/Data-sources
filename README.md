@@ -128,6 +128,10 @@ https://www.11hacks.net/
 
 https://medium.com/
 
+https://www.transfermarkt.com/
+
+https://www.eliteprospects.com/
+
 https://wyscout.com/ - The professional platform for people working in the football world: videos, data, statistics and tools.
 
 
