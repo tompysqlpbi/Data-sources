@@ -16,8 +16,10 @@
 
 **HUDL** - https://www.hudl.com/
 
+https://wyscout.com/ - The professional platform for people working in the football world: videos, data, statistics and tools.
 
-## SPORTs BETTING SOLUTIONS
+
+## SPORTs (BETTING) SOLUTIONS
 
 **BETRADAR** - https://betradar.com/ - live odds betting provider 
 
@@ -28,6 +30,12 @@
 **RTS MUNITY** - https://www.rtsmunity.com/ - live odds betting provider - esport
 
 **STATS PERFORM** - https://www.statsperform.com/
+
+**ODDIN** - https://oddin.gg/ - AI - powered automated live esports odds
+
+**SMARTODDS** - https://www.smartodds.co.uk/ - A privately owned company providing statistical research and sports modeling services
+
+**11 HACKS** - https://www.11hacks.net/ - Private company analyzing games and players
 
 
 ## LEARNING PLATFORM
@@ -77,6 +85,8 @@
 
 **FBREF** - https://fbref.com/ - 
 
+**CAP FRIENDLY** - https://www.capfriendly.com/ - NHL salaries
+
 
 
 
@@ -112,19 +122,17 @@ http://petermckeever.com/
 
 https://pbpython.com/
 
-https://www.capfriendly.com/
-
 https://www.scisports.com/
 
 https://www.mysportsfeeds.com/
 
-http://harvardsportsanalysis.org/
 
 https://www.hanic-analytics.com/
 
 https://www.icebergsports.com/
 
-https://sports.sites.yale.edu/
+
+
 
 https://www.optasports.com/
 
@@ -142,8 +150,6 @@ https://www.datasciencecentral.com/
 
 http://www.naturalstattrick.com/
 
-**ODDIN** - https://oddin.gg/
-
 **HOCKEY PROSPECTING** - https://hockeyprospecting.com/
 
 **11 TEGEN 11** - https://11tegen11.wordpress.com/
@@ -154,18 +160,20 @@ http://www.naturalstattrick.com/
 
 **DATACHANT** - https://datachant.com/
 
-**SMARTODDS** - https://www.smartodds.co.uk/
-
 **ODDS** - https://odds.gg/
 
 **** - http://eightyfivepoints.blogspot.com/
 
-***11 HACKS* - https://www.11hacks.net/
 
 
 
 
-https://wyscout.com/ - The professional platform for people working in the football world: videos, data, statistics and tools.
+
+
+
+
+
+
 
 
 
@@ -186,5 +194,11 @@ https://wyscout.com/ - The professional platform for people working in the footb
 **SALARY CAP** - www.salarycap.com - salaries NHL
 
 **SALARY SPORT** - https://salarysport.com/ - Interesting page with estimated salaries in sports
+
+## UNIVERSITY PROGRAMMES
+
+**HARVARD SPORS ANALYSIS* - http://harvardsportsanalysis.org/ - The official blog og the Harvard sports analysis collective
+
+**YALE** - https://sports.sites.yale.edu/ - Yale underraduate sports analytics group
 
 
