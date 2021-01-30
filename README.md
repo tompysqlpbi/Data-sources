@@ -1,7 +1,7 @@
 # Data-sources
 
 
-## Liive stats + some info
+## Live stats + some info
 
 **FLASHSCORE** - https://flashscore.com
 
@@ -10,29 +10,31 @@
 **SOFASCORE** - https://www.sofascore.com/
 
 
+##DATA STATS PROVIDER - PAID
+
+https://instatsport.com/
+
+https://www.hudl.com/
+
 HOCKEY GRAPHS:
 
-https://hockeyviz.com/
+**HOCKEY WIZ** - https://hockeyviz.com/ - NHL visualisation
 
-https://www.waveintel.org/
+**WAVE INTEL** - https://www.waveintel.org/ - Interactive Data Analysis Tools
 
-https://moneypuck.com
+**MONEY PUCK** - https://moneypuck.com - 
 
-https://www.football-data.co.uk/
+**** - https://www.football-data.co.uk/
 
-https://www.pinnacle.com/en/betting-resources
+**** - https://www.quanthockey.com/
 
-https://www.quanthockey.com/
-
-https://hockey-graphs.com/
+**** - https://hockey-graphs.com/
 
 https://evolving-hockey.com/ - Stats, video & analytics
 
 https://www.hockeystatcards.com/
 
-https://instatsport.com/
-
-https://www.hudl.com/
+## SPORT SOLUTIONS
 
 https://betradar.com/
 
@@ -40,11 +42,15 @@ https://betbazar.com/
 
 https://geniussports.com/
 
+
+
+
+
+
+
 http://gurustats.pl/ - stats speedway
 
 https://puckpedia.com/
-
-www.salarycap.com
 
 https://hockey-graphs.com/
 
@@ -126,12 +132,27 @@ http://eightyfivepoints.blogspot.com/
 
 https://www.11hacks.net/
 
-https://medium.com/
 
-https://www.transfermarkt.com/
 
-https://www.eliteprospects.com/
 
 https://wyscout.com/ - The professional platform for people working in the football world: videos, data, statistics and tools.
+
+
+
+## ARTICLES
+
+**PINNACLE** - https://www.pinnacle.com/en/betting-resources - interesting topics about sport betting
+
+**MEDIUM** - https://medium.com/ - Interesting source of articles
+
+## FREE DATABASES
+
+**TRANSFERMARKT** - https://www.transfermarkt.com/ - Football database
+
+**ELITE PROSPECTS** - https://www.eliteprospects.com/ - hockey database
+
+**SALARY CAP** - www.salarycap.com - salaries NHL
+
+**SALARY SPORT** - https://salarysport.com/ - Interesting page with estimated salaries in sports
 
 
