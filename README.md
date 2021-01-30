@@ -29,7 +29,7 @@ https://wyscout.com/ - The professional platform for people working in the footb
 
 **RTS MUNITY** - https://www.rtsmunity.com/ - live odds betting provider - esport
 
-**STATS PERFORM** - https://www.statsperform.com/
+**STATS PERFORM** - https://www.statsperform.com/ - harnesses the true power of sports data by leveraging advancements in artificial intelligence to generate the industry's richest insights
 
 **ODDIN** - https://oddin.gg/ - AI - powered automated live esports odds
 
@@ -37,12 +37,18 @@ https://wyscout.com/ - The professional platform for people working in the footb
 
 **11 HACKS** - https://www.11hacks.net/ - Private company analyzing games and players
 
+**STATS BOMB** - https://statsbomb.com/ - Football data analytical company
+
+**SCISPORTS** - https://www.scisports.com/ - football analysis software provides data-driven actionable insights for football professionals in recruitment and performance
+
 
 ## LEARNING PLATFORM
 
 **BARCA INOVATIONHUB** - https://barcainnovationhub.com/ - online learning platform
 
-**STATS BOMB** - https://statsbomb.com/ - 
+**PETER MCKEEVER** - http://petermckeever.com/ - codes in Python
+
+**BI PORTAL** - https://biportal.cz/ - Czech page, learn Power BI, SQL, Excel
 
 
 
@@ -69,7 +75,9 @@ https://wyscout.com/ - The professional platform for people working in the footb
 
 **EVOLVING HOCKEY** - https://evolving-hockey.com/ - Stats, video & analytics
 
-**PUCKPEDIA** - https://puckpedia.com/ - 
+**PUCKPEDIA** - https://puckpedia.com/ - offers the latest NHL hockey news, live scores, player stats, team ranking, hockey schedule, players transactions, playoff scores, results and more
+
+**Analytics based company on AI and ML** - https://www.icebergsports.com/
 
 **HOCKEY GRAPHS** - https://hockey-graphs.com/ - 
 
@@ -77,7 +85,7 @@ https://wyscout.com/ - The professional platform for people working in the footb
 
 **CHARTING HOCKEY** - https://www.chartinghockey.ca/
 
-**SHIFT CHART** - http://www.shiftchart.com/
+**SHIFT CHART** - http://www.shiftchart.com/ - Shifts in NHL on charts
 
 **HOCKEY STATS CARDS** - https://www.hockeystatcards.com/ - 
 
@@ -112,43 +120,39 @@ http://gurustats.pl/ - stats speedway
 
 
 
-https://biportal.cz/
 
-https://understat.com/
+**** - https://understat.com/
 
-http://savvastjortjoglou.com/
-
-http://petermckeever.com/
-
-https://pbpython.com/
-
-https://www.scisports.com/
-
-https://www.mysportsfeeds.com/
+**** - http://savvastjortjoglou.com/
 
 
-https://www.hanic-analytics.com/
 
-https://www.icebergsports.com/
+**** - https://pbpython.com/
+
+**** - https://www.mysportsfeeds.com/
 
 
 
 
-https://www.optasports.com/
 
-https://www.stathletes.com/
 
-https://data.world/
 
-https://nlicedata.com/
 
-https://www.enexto.com/
 
-http://www.numerately.com
+**** - https://www.optasports.com/
 
-https://www.datasciencecentral.com/
+**** - https://www.stathletes.com/
 
-http://www.naturalstattrick.com/
+**** - https://data.world/
+
+**** - https://nlicedata.com/
+
+**** - https://www.enexto.com/
+
+**** - http://www.numerately.com
+
+
+**NATURAL STAT TRICK** - http://www.naturalstattrick.com/
 
 **HOCKEY PROSPECTING** - https://hockeyprospecting.com/
 
@@ -184,6 +188,9 @@ http://www.naturalstattrick.com/
 **MEDIUM** - https://medium.com/ - Interesting source of articles
 
 **TOWARD DATA SCIENCE** - https://towardsdatascience.com/ - Articles about data analytics
+
+**DATA SCIENCE CENTRAL** - https://www.datasciencecentral.com/
+
 
 ## FREE DATABASES
 
