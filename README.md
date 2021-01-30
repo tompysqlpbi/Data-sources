@@ -1,22 +1,22 @@
 # Data-sources
 
 
-## Live stats + some info
+## LIVE STATS + SOME INFO
 
-**FLASHSCORE** - https://flashscore.com
+**FLASHSCORE** - https://flashscore.com - table, stats, live score, database, more sports
 
-**WHOSCORED** - https://www.whoscored.com/
+**WHOSCORED** - https://www.whoscored.com/ - live score, rating of players in game, match report
 
-**SOFASCORE** - https://www.sofascore.com/
+**SOFASCORE** - https://www.sofascore.com/ - live score, more sports, football with heat map, basketball with shoots
 
 
-##DATA STATS PROVIDER - PAID
+## DATA STATS PROVIDER - PAID
 
 https://instatsport.com/
 
 https://www.hudl.com/
 
-HOCKEY GRAPHS:
+## HOCKEY GRAPHS, STATS:
 
 **HOCKEY WIZ** - https://hockeyviz.com/ - NHL visualisation
 
@@ -26,35 +26,43 @@ HOCKEY GRAPHS:
 
 **** - https://www.football-data.co.uk/
 
-**** - https://www.quanthockey.com/
+**QUANT HOCKEY** - https://www.quanthockey.com/ - hockey stats
 
-**** - https://hockey-graphs.com/
+**HOCKEY GRAPHS** - https://hockey-graphs.com/
 
-https://evolving-hockey.com/ - Stats, video & analytics
+**EVOLVING HOCKEY** - https://evolving-hockey.com/ - Stats, video & analytics
+
+**PUCKPEDIA** - https://puckpedia.com/ - 
+
+**HOCKEY GRAPHS** - https://hockey-graphs.com/ - 
 
 https://www.hockeystatcards.com/
 
 ## SPORT SOLUTIONS
 
-https://betradar.com/
+**BETRADAR** - https://betradar.com/
 
-https://betbazar.com/
+**BETBAZAR** - https://betbazar.com/
 
-https://geniussports.com/
+**GENIUES SPORTS** - https://geniussports.com/
+
+## ODDS
+
+**ODDS PORTAL** - https://www.oddsportal.com/ - current odds, historical odds, compare odds between betting companies
+
+**ODDS CHECKER** - https://www.oddschecker.com/ - check odds betweeen betting companies
 
 
-
-
-
-
+## STATS
 
 http://gurustats.pl/ - stats speedway
 
-https://puckpedia.com/
 
-https://hockey-graphs.com/
 
-https://towardsdatascience.com/
+
+
+
+
 
 https://www.hockey-reference.com/
 
@@ -144,6 +152,8 @@ https://wyscout.com/ - The professional platform for people working in the footb
 **PINNACLE** - https://www.pinnacle.com/en/betting-resources - interesting topics about sport betting
 
 **MEDIUM** - https://medium.com/ - Interesting source of articles
+
+**TOWARD DATA SCIENCE** - https://towardsdatascience.com/ - Articles about data analytics
 
 ## FREE DATABASES
 
