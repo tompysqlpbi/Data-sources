@@ -12,9 +12,38 @@
 
 ## DATA STATS PROVIDER - PAID
 
-https://instatsport.com/
+**INSTAT SPORT** - https://instatsport.com/
 
-https://www.hudl.com/
+**HUDL** - https://www.hudl.com/
+
+
+## SPORTs BETTING SOLUTIONS
+
+**BETRADAR** - https://betradar.com/ - live odds betting provider 
+
+**BETBAZAR** - https://betbazar.com/ - live odds betting provider 
+
+**GENIUES SPORTS** - https://geniussports.com/ - live odds betting provider 
+
+**RTS MUNITY** - https://www.rtsmunity.com/ - live odds betting provider - esport
+
+**STATS PERFORM** - https://www.statsperform.com/
+
+
+## LEARNING PLATFORM
+
+**BARCA INOVATIONHUB** - https://barcainnovationhub.com/ - online learning platform
+
+**STATS BOMB** - https://statsbomb.com/ - 
+
+
+
+
+
+
+
+
+
 
 ## HOCKEY GRAPHS, STATS:
 
@@ -24,7 +53,7 @@ https://www.hudl.com/
 
 **MONEY PUCK** - https://moneypuck.com - 
 
-**** - https://www.football-data.co.uk/
+**** - https://www.football-data.co.uk/ -
 
 **QUANT HOCKEY** - https://www.quanthockey.com/ - hockey stats
 
@@ -36,15 +65,22 @@ https://www.hudl.com/
 
 **HOCKEY GRAPHS** - https://hockey-graphs.com/ - 
 
-https://www.hockeystatcards.com/
+**HOCKEY DB** - https://www.hockeydb.com/
 
-## SPORT SOLUTIONS
+**CHARTING HOCKEY** - https://www.chartinghockey.ca/
 
-**BETRADAR** - https://betradar.com/
+**SHIFT CHART** - http://www.shiftchart.com/
 
-**BETBAZAR** - https://betbazar.com/
+**HOCKEY STATS CARDS** - https://www.hockeystatcards.com/ - 
 
-**GENIUES SPORTS** - https://geniussports.com/
+**HOCKEY REFERENCE** - https://www.hockey-reference.com/ - 
+
+**FBREF** - https://fbref.com/ - 
+
+
+
+
+
 
 ## ODDS
 
@@ -64,11 +100,9 @@ http://gurustats.pl/ - stats speedway
 
 
 
-https://www.hockey-reference.com/
+
 
 https://biportal.cz/
-
-https://fbref.com/
 
 https://understat.com/
 
@@ -84,8 +118,6 @@ https://www.scisports.com/
 
 https://www.mysportsfeeds.com/
 
-https://barcainnovationhub.com/
-
 http://harvardsportsanalysis.org/
 
 https://www.hanic-analytics.com/
@@ -97,8 +129,6 @@ https://sports.sites.yale.edu/
 https://www.optasports.com/
 
 https://www.stathletes.com/
-
-https://www.statsperform.com/
 
 https://data.world/
 
@@ -112,33 +142,25 @@ https://www.datasciencecentral.com/
 
 http://www.naturalstattrick.com/
 
-https://www.hockeydb.com/
+**ODDIN** - https://oddin.gg/
 
-https://www.chartinghockey.ca/
+**HOCKEY PROSPECTING** - https://hockeyprospecting.com/
 
-http://www.shiftchart.com/
+**11 TEGEN 11** - https://11tegen11.wordpress.com/
 
-https://oddin.gg/
+**TWELWE FOOTBALL** - https://twelve.football/
 
-https://hockeyprospecting.com/
+**MOBALYTIVS** - https://mobalytics.gg/
 
-https://11tegen11.wordpress.com/
+**DATACHANT** - https://datachant.com/
 
-https://twelve.football/
+**SMARTODDS** - https://www.smartodds.co.uk/
 
-https://www.rtsmunity.com/
+**ODDS** - https://odds.gg/
 
-https://mobalytics.gg/
+**** - http://eightyfivepoints.blogspot.com/
 
-https://datachant.com/
-
-https://www.smartodds.co.uk/
-
-https://odds.gg/
-
-http://eightyfivepoints.blogspot.com/
-
-https://www.11hacks.net/
+***11 HACKS* - https://www.11hacks.net/
 
 
 
@@ -149,7 +171,7 @@ https://wyscout.com/ - The professional platform for people working in the footb
 
 ## ARTICLES
 
-**PINNACLE** - https://www.pinnacle.com/en/betting-resources - interesting topics about sport betting
+**PINNACLE** - https://www.pinnacle.com/en/betting-resources - interesting topics about sports betting
 
 **MEDIUM** - https://medium.com/ - Interesting source of articles
 
