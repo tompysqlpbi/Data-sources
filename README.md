@@ -12,11 +12,11 @@
 
 ## DATA STATS PROVIDER - PAID
 
-**INSTAT SPORT** - https://instatsport.com/
+**INSTAT SPORT** - https://instatsport.com/ - Stats, video & analytics - they collect data that helps to achieve results
 
-**HUDL** - https://www.hudl.com/
+**HUDL** - https://www.hudl.com/ - build the most powerful and flexible tools for video analysis
 
-https://wyscout.com/ - The professional platform for people working in the football world: videos, data, statistics and tools.
+**WYSCOUT** - https://wyscout.com/ - The professional platform for people working in the football world: videos, data, statistics and tools.
 
 
 ## SPORTs (BETTING) SOLUTIONS
@@ -26,6 +26,8 @@ https://wyscout.com/ - The professional platform for people working in the footb
 **BETBAZAR** - https://betbazar.com/ - live odds betting provider 
 
 **GENIUES SPORTS** - https://geniussports.com/ - live odds betting provider 
+
+**OPTA SPORTS** - https://www.optasports.com/ - Detailed sports data from Stats Perform to bring your content and coverage to life
 
 **RTS MUNITY** - https://www.rtsmunity.com/ - live odds betting provider - esport
 
@@ -65,13 +67,13 @@ https://wyscout.com/ - The professional platform for people working in the footb
 
 **WAVE INTEL** - https://www.waveintel.org/ - Interactive Data Analysis Tools
 
-**MONEY PUCK** - https://moneypuck.com - 
+**MONEY PUCK** - https://moneypuck.com - NHL historical data and predictions
 
-**** - https://www.football-data.co.uk/ -
+**FOOTBALL DATA** - https://www.football-data.co.uk/ - free historical data about football with odds and results
 
 **QUANT HOCKEY** - https://www.quanthockey.com/ - hockey stats
 
-**HOCKEY GRAPHS** - https://hockey-graphs.com/
+**HOCKEY GRAPHS** - https://hockey-graphs.com/ - hockey graphs and articles
 
 **EVOLVING HOCKEY** - https://evolving-hockey.com/ - Stats, video & analytics
 
@@ -79,19 +81,17 @@ https://wyscout.com/ - The professional platform for people working in the footb
 
 **Analytics based company on AI and ML** - https://www.icebergsports.com/
 
-**HOCKEY GRAPHS** - https://hockey-graphs.com/ - 
+**HOCKEY DB** - https://www.hockeydb.com/ - hockey db stats
 
-**HOCKEY DB** - https://www.hockeydb.com/
-
-**CHARTING HOCKEY** - https://www.chartinghockey.ca/
+**CHARTING HOCKEY** - https://www.chartinghockey.ca/ - NHL charts
 
 **SHIFT CHART** - http://www.shiftchart.com/ - Shifts in NHL on charts
 
-**HOCKEY STATS CARDS** - https://www.hockeystatcards.com/ - 
+**HOCKEY STATS CARDS** - https://www.hockeystatcards.com/ - NHL charts
 
-**HOCKEY REFERENCE** - https://www.hockey-reference.com/ - 
+**HOCKEY REFERENCE** - https://www.hockey-reference.com/ - hockey stats
 
-**FBREF** - https://fbref.com/ - 
+**FBREF** - https://fbref.com/ - Football stats
 
 **CAP FRIENDLY** - https://www.capfriendly.com/ - NHL salaries
 
@@ -121,17 +121,15 @@ http://gurustats.pl/ - stats speedway
 
 
 
-**** - https://understat.com/
+**UNDER STAT** - https://understat.com/ - football stats, xG etc.
 
-**** - http://savvastjortjoglou.com/
-
-
-
-**** - https://pbpython.com/
-
-**** - https://www.mysportsfeeds.com/
+**SAVVASTJORTJOGLOU** - http://savvastjortjoglou.com/ - python codes
 
 
+
+**DB PYTHON** - https://pbpython.com/
+
+**MY SPORTS FEEDS** - https://www.mysportsfeeds.com/
 
 
 
@@ -139,17 +137,16 @@ http://gurustats.pl/ - stats speedway
 
 
 
-**** - https://www.optasports.com/
 
-**** - https://www.stathletes.com/
+**STATHLETES** - https://www.stathletes.com/ - statistical database, company
 
-**** - https://data.world/
+**DATA WORLD** - https://data.world/ - data source
 
-**** - https://nlicedata.com/
+**NL ICE DATA** - https://nlicedata.com/ - Swiss hockey statistics resources
 
-**** - https://www.enexto.com/
+**ENEXTO** - https://www.enexto.com/ - Football player's rating
 
-**** - http://www.numerately.com
+**NUMERATELY** - http://www.numerately.com - some python codes
 
 
 **NATURAL STAT TRICK** - http://www.naturalstattrick.com/
@@ -166,7 +163,7 @@ http://gurustats.pl/ - stats speedway
 
 **ODDS** - https://odds.gg/
 
-**** - http://eightyfivepoints.blogspot.com/
+**EIGHTY FIVE POINTS** - http://eightyfivepoints.blogspot.com/
 
 
 
