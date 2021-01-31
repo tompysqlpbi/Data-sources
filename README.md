@@ -61,13 +61,15 @@
 
 
 
-## HOCKEY GRAPHS, STATS:
+## SPORT GRAPHS, STATS:
 
 **HOCKEY WIZ** - https://hockeyviz.com/ - NHL visualisation
 
 **WAVE INTEL** - https://www.waveintel.org/ - Interactive Data Analysis Tools
 
 **MONEY PUCK** - https://moneypuck.com - NHL historical data and predictions
+
+**HOCKEY PROSPECTING** - https://hockeyprospecting.com/ - stats graphs about players
 
 **FOOTBALL DATA** - https://www.football-data.co.uk/ - free historical data about football with odds and results
 
@@ -95,49 +97,6 @@
 
 **CAP FRIENDLY** - https://www.capfriendly.com/ - NHL salaries
 
-
-
-
-
-
-## ODDS
-
-**ODDS PORTAL** - https://www.oddsportal.com/ - current odds, historical odds, compare odds between betting companies
-
-**ODDS CHECKER** - https://www.oddschecker.com/ - check odds betweeen betting companies
-
-
-## STATS
-
-http://gurustats.pl/ - stats speedway
-
-
-
-
-
-
-
-
-
-
-
-**UNDER STAT** - https://understat.com/ - football stats, xG etc.
-
-**SAVVASTJORTJOGLOU** - http://savvastjortjoglou.com/ - python codes
-
-
-
-**DB PYTHON** - https://pbpython.com/
-
-**MY SPORTS FEEDS** - https://www.mysportsfeeds.com/
-
-
-
-
-
-
-
-
 **STATHLETES** - https://www.stathletes.com/ - statistical database, company
 
 **DATA WORLD** - https://data.world/ - data source
@@ -146,24 +105,48 @@ http://gurustats.pl/ - stats speedway
 
 **ENEXTO** - https://www.enexto.com/ - Football player's rating
 
+**GURU STATS** - http://gurustats.pl/ - stats speedway
+
+**UNDER STAT** - https://understat.com/ - football stats, xG etc.
+
+
+## ODDS
+
+**ODDS PORTAL** - https://www.oddsportal.com/ - current odds, historical odds, compare odds between betting companies
+
+**ODDS CHECKER** - https://www.oddschecker.com/ - check odds betweeen betting companies
+
+**ODDS** - https://odds.gg/ -offering the widest coverage of games, best pre-match and live odds
+
+
+## STATS
+
+
+
+
+
+
+**SAVVASTJORTJOGLOU** - http://savvastjortjoglou.com/ - python codes
+
+
+
+
+
+**MY SPORTS FEEDS** - https://www.mysportsfeeds.com/ - an affordable API, delivery options from Non-Live through Real-time
+
 **NUMERATELY** - http://www.numerately.com - some python codes
 
+**TWELWE FOOTBALL** - https://twelve.football/ - analyse gameplay automatically. On every ball our algorithm assigns points to the players. The Twelve points system is a machine learning algorithm that has learnt what creates successful football from millions of previous events. It is used by top clubs and media companies throughout Europe. 
 
-**NATURAL STAT TRICK** - http://www.naturalstattrick.com/
+**MOBALYTICS** - https://mobalytics.gg/ - st personal gaming assistant that has everything you might need to enhance your performance and overall game experience
 
-**HOCKEY PROSPECTING** - https://hockeyprospecting.com/
 
-**11 TEGEN 11** - https://11tegen11.wordpress.com/
 
-**TWELWE FOOTBALL** - https://twelve.football/
+* FREE TO USE OPEN DATA
 
-**MOBALYTIVS** - https://mobalytics.gg/
+**METRICA SPORTS DATA** - https://github.com/metrica-sports/sample-data - football matches
 
-**DATACHANT** - https://datachant.com/
-
-**ODDS** - https://odds.gg/
-
-**EIGHTY FIVE POINTS** - http://eightyfivepoints.blogspot.com/
+**STATSBOMB** - https://github.com/statsbomb/open-data - football matches
 
 
 
@@ -206,3 +189,8 @@ http://gurustats.pl/ - stats speedway
 **YALE** - https://sports.sites.yale.edu/ - Yale underraduate sports analytics group
 
 
+# OTHERS
+
+**DATACHANT** - https://datachant.com/ - Power BI tips
+
+**PB PYTHON** - https://pbpython.com/ - practical business python
