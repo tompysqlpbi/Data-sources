@@ -18,6 +18,8 @@
 
 **WYSCOUT** - https://wyscout.com/ - The professional platform for people working in the football world: videos, data, statistics and tools.
 
+**MOBALYTICS** - https://mobalytics.gg/ - st personal gaming assistant that has everything you might need to enhance your performance and overall game experience
+
 
 ## SPORTs (BETTING) SOLUTIONS
 
@@ -43,6 +45,7 @@
 
 **SCISPORTS** - https://www.scisports.com/ - football analysis software provides data-driven actionable insights for football professionals in recruitment and performance
 
+**MY SPORTS FEEDS** - https://www.mysportsfeeds.com/ - an affordable API, delivery options from Non-Live through Real-time
 
 ## LEARNING PLATFORM
 
@@ -109,6 +112,9 @@
 
 **UNDER STAT** - https://understat.com/ - football stats, xG etc.
 
+**TWELWE FOOTBALL** - https://twelve.football/ - analyse gameplay automatically. On every ball our algorithm assigns points to the players. The Twelve points system is a machine learning algorithm that has learnt what creates successful football from millions of previous events. It is used by top clubs and media companies throughout Europe. 
+
+
 
 ## ODDS
 
@@ -119,30 +125,9 @@
 **ODDS** - https://odds.gg/ -offering the widest coverage of games, best pre-match and live odds
 
 
-## STATS
 
 
-
-
-
-
-**SAVVASTJORTJOGLOU** - http://savvastjortjoglou.com/ - python codes
-
-
-
-
-
-**MY SPORTS FEEDS** - https://www.mysportsfeeds.com/ - an affordable API, delivery options from Non-Live through Real-time
-
-**NUMERATELY** - http://www.numerately.com - some python codes
-
-**TWELWE FOOTBALL** - https://twelve.football/ - analyse gameplay automatically. On every ball our algorithm assigns points to the players. The Twelve points system is a machine learning algorithm that has learnt what creates successful football from millions of previous events. It is used by top clubs and media companies throughout Europe. 
-
-**MOBALYTICS** - https://mobalytics.gg/ - st personal gaming assistant that has everything you might need to enhance your performance and overall game experience
-
-
-
-* FREE TO USE OPEN DATA
+# FREE TO USE OPEN DATA
 
 **METRICA SPORTS DATA** - https://github.com/metrica-sports/sample-data - football matches
 
@@ -194,3 +179,7 @@
 **DATACHANT** - https://datachant.com/ - Power BI tips
 
 **PB PYTHON** - https://pbpython.com/ - practical business python
+
+**NUMERATELY** - http://www.numerately.com - some python codes
+
+**SAVVASTJORTJOGLOU** - http://savvastjortjoglou.com/ - python codes
