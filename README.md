@@ -180,3 +180,21 @@
 **NUMERATELY** - http://www.numerately.com - some python codes
 
 **SAVVASTJORTJOGLOU** - http://savvastjortjoglou.com/ - python codes
+
+# BETTING COMPANIES
+
+**PINACLE** - https://www.pinnacle.com/
+
+**BET365** - https://www.bet365.com/#/HO/
+
+**BWIN** - https://sports.bwin.com/
+
+**MARATHON BET** - https://www.marathonbet.com/en/?cpcids=all
+
+**BETFRED** - https://www.betfred.com/
+
+**WILLIAM HILL** - https://www.williamhill.com/
+
+**LADBROKERS** - https://www.ladbrokes.com/
+
+**BETFAIR** - https://www.betfair.com/
