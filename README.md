@@ -47,7 +47,7 @@
 
 **MY SPORTS FEEDS** - https://www.mysportsfeeds.com/ - an affordable API, delivery options from Non-Live through Real-time
 
-## LEARNING PLATFORM
+## LEARNING SPORTS PLATFORM
 
 **BARCA INOVATIONHUB** - https://barcainnovationhub.com/ - online learning platform
 
@@ -55,10 +55,7 @@
 
 **BI PORTAL** - https://biportal.cz/ - Czech page, learn Power BI, SQL, Excel
 
-
-
-
-
+**FC PYTHON** - https://fcpython.com/ - Learn Python & data science skills through football
 
 
 
