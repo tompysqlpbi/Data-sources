@@ -198,3 +198,14 @@
 **LADBROKERS** - https://www.ladbrokes.com/
 
 **BETFAIR** - https://www.betfair.com/
+
+
+## YOUTUBE INTERESTING ACCOUNTS
+
+**CBJ HOCKEY ANALYTICS** - https://www.youtube.com/channel/UClhoHqhPTymPXpWm_M34aqA/featured - data conferences
+
+**FRIENDS OF TRACKINGS** - https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w/featured - football data analytics
+
+**ISOL-HAC** - https://www.youtube.com/channel/UCd_owNMk_0mkqSLnRdXVLiQ/featured - sport conferences
+
+
