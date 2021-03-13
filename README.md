@@ -1,5 +1,8 @@
 # Data-sources
 
+**Free sport data sources** - https://brendankent.com/2021/03/09/free-sports-data-sources/ - List of free data 
+sources
+
 
 ## LIVE STATS + SOME INFO
 
