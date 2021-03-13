@@ -111,6 +111,8 @@
 
 **TWELWE FOOTBALL** - https://twelve.football/ - analyse gameplay automatically. On every ball our algorithm assigns points to the players. The Twelve points system is a machine learning algorithm that has learnt what creates successful football from millions of previous events. It is used by top clubs and media companies throughout Europe. 
 
+**Understat** - https://understat.com/ - Expected goals for top leagues in Europe
+
 
 
 ## ODDS
